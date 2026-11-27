@@ -1,59 +1,46 @@
 <div align="center">
 
-<img src="./assets/profile-banner-crimson-v6.svg" alt="Pedro Henrique Wenz — Desenvolvimento de Software, Inteligência Artificial e Automação" width="100%"/>
+<img src="./assets/readme/hero-crimson-v7.svg" alt="Pedro Henrique Wenz — Desenvolvimento de Software, Inteligência Artificial e Automação" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wenz-866302271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portf%C3%B3lio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrowenz-a17y?tab=repositories)
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=pedrowenz-a17y&label=Visualiza%C3%A7%C3%B5es&color=21856d&style=for-the-badge) [![Seguidores](https://img.shields.io/github/followers/pedrowenz-a17y?style=for-the-badge&label=Seguidores&color=3979B8&logo=github)](https://github.com/pedrowenz-a17y?tab=followers) [![Estrelas](https://img.shields.io/github/stars/pedrowenz-a17y?style=for-the-badge&label=Estrelas&color=B58A43&logo=github)](https://github.com/pedrowenz-a17y?tab=repositories)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=pedrowenz-a17y&label=Visualiza%C3%A7%C3%B5es&color=B8324C&style=for-the-badge) [![Seguidores](https://img.shields.io/github/followers/pedrowenz-a17y?style=for-the-badge&label=Seguidores&color=4B3947&logo=github)](https://github.com/pedrowenz-a17y?tab=followers) [![Estrelas](https://img.shields.io/github/stars/pedrowenz-a17y?style=for-the-badge&label=Estrelas&color=BA586D&logo=github)](https://github.com/pedrowenz-a17y?tab=repositories)
 
-[![Português (selecionado)](./assets/lang-pt-active.svg)](./README.md) [![English](./assets/lang-en.svg)](./README.en.md)
+[![Português (selecionado)](./assets/readme/lang-pt-active-v2.svg)](./README.md) [![English](./assets/readme/lang-en-v2.svg)](./README.en.md)
 
 </div>
 
-## Sobre mim
+## 01 / Sobre mim
 
 Sou estudante do SENAI e desenvolvo projetos de software voltados à resolução de problemas reais. Tenho interesse especial em aplicações web, sistemas de gestão e inteligência artificial aplicada ao desenvolvimento.
 
 Gosto de explorar todo o processo de criação de uma aplicação: da ideia e da interface à estrutura do banco de dados, autenticação, testes e publicação.
 
-## Tecnologias e ferramentas
+## 02 / Tecnologias e ferramentas
 
-### Frontend
+<p align="center"><img src="./assets/readme/stack-pt-v1.svg" width="100%" alt="Mapa das tecnologias: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Supabase, PostgreSQL, Node.js, Prisma, Git, GitHub, Vercel, Arduino e Remotion"/></p>
 
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<details>
+<summary>Lista de tecnologias</summary>
 
-### Backend e banco de dados
+**Interface:** React, Next.js, TypeScript, JavaScript e Tailwind CSS.
 
-![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=7AA2D6) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=83CD29) ![Prisma](https://img.shields.io/badge/Prisma-161B22?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+**Backend e dados:** Supabase, PostgreSQL, Node.js e Prisma.
 
-### Versionamento e publicação
+**Versionamento e publicação:** Git, GitHub e Vercel.
 
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+**Automação e criação:** Arduino e Remotion.
 
-### Automação e desenvolvimento criativo
+</details>
 
-![Arduino](https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=25B7C1) ![Remotion](https://img.shields.io/badge/Remotion-161B22?style=for-the-badge)
+## 03 / Inteligência artificial no meu fluxo de trabalho
 
-## Inteligência artificial no meu fluxo de trabalho
+<p align="center"><img src="./assets/readme/workflow-pt-v1.svg" width="100%" alt="ChatGPT para planejamento, Codex para implementação, Claude para revisão. Fluxo: ideia, planejamento, implementação, testes e revisão."/></p>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-21856D?style=for-the-badge)
+Uso **ChatGPT** para estudar e organizar ideias, **Codex** para implementar funcionalidades e investigar bugs, e **Claude** para discutir arquitetura e revisar soluções. Busco compreender as sugestões e testar o código antes de incorporá-lo aos projetos.
 
-Planejamento, estudo de conceitos e exploração de soluções.
-
-![Codex](https://img.shields.io/badge/Codex-343B46?style=for-the-badge)
-
-Implementação de funcionalidades, investigação de bugs e manutenção de código.
-
-![Claude](https://img.shields.io/badge/Claude-AC6247?style=for-the-badge&logo=claude&logoColor=white)
-
-Análise de requisitos, arquitetura e revisão de implementações.
-
-**Meu fluxo:** Ideia → Planejamento → Implementação → Testes → Revisão
-
-Utilizo a IA como apoio ao desenvolvimento, buscando compreender as soluções e testar o código antes de incorporá-lo aos projetos.
-
-## Estatísticas do GitHub
+## 04 / Estatísticas do GitHub
 
 <div align="center">
 
@@ -68,7 +55,7 @@ Utilizo a IA como apoio ao desenvolvimento, buscando compreender as soluções e
 
 [Consultar sequência de dias](https://streak-stats.demolab.com/?user=pedrowenz-a17y&theme=dark&hide_border=true&background=141219&ring=FF687A&fire=FF687A&currStreakLabel=FF7585&currStreakNum=E7EDF7&sideNums=E7EDF7&sideLabels=D6E0EE&dates=94A3B8&stroke=482634&hide_total_contributions=true&locale=pt_BR)
 
-## Contribuições e atividade
+## 05 / Contribuições e atividade
 
 <div align="center">
   <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v2.svg" alt="Dinossauro pixelado pulando cactos em um calendário animado decorativo" width="100%"/></a>
@@ -78,7 +65,7 @@ Animação decorativa inspirada no jogo do dinossauro do Chrome e no calendário
 
 [Ver calendário oficial de contribuições →](https://github.com/pedrowenz-a17y#contributions)
 
-## O que estou explorando
+## 06 / O que estou explorando
 
 - Desenvolvimento full stack e arquitetura de aplicações SaaS.
 - PostgreSQL, autenticação e segurança com Row Level Security (RLS).
@@ -86,7 +73,7 @@ Animação decorativa inspirada no jogo do dinossauro do Chrome e no calendário
 - Produção de vídeos e animações utilizando React e Remotion.
 - Robótica e prototipagem com Arduino.
 
----
+<p align="center"><img src="./assets/readme/profile-signature-v1.svg" width="100%" alt="PW — Pedro Henrique Wenz"/></p>
 
 <div align="center">
 
