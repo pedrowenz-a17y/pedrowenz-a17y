@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">Pedro Henrique Wenz — Software Development</title>
-<desc id="desc">Banner grafite com detalhes em azul e verde, linhas de circuito animadas e identificação profissional.</desc>
+<desc id="desc">Animated bilingual banner. Português e English alternate every six seconds.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B111B"/><stop offset="1" stop-color="#14263A"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#3DDC97"/></linearGradient>
@@ -22,11 +22,12 @@
 </g>
 <rect x="52" y="53" width="5" height="206" rx="2.5" fill="url(#accent)"/>
 <g font-family="Arial, Helvetica, sans-serif">
-<text x="77" y="77" font-size="15" font-weight="700" letter-spacing="3" fill="#70B7F8">DESENVOLVIMENTO DE SOFTWARE</text>
+
 <text x="75" y="145" font-size="51" font-weight="700" fill="#F0F6FC">Pedro Henrique Wenz</text>
-<text x="78" y="190" font-size="23" fill="#B5C9DC">Aplicações web · Inteligência artificial · Automação</text>
+
 <circle cx="85" cy="238" r="5" fill="#3DDC97"><animate attributeName="opacity" values="1;.4;1" dur="3s" repeatCount="indefinite"/></circle>
-<text x="100" y="243" font-size="15" fill="#A7C3D9">SENAI / Em constante aprendizado</text>
+<g opacity="1"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.5;0.92;1" dur="12s" repeatCount="indefinite"/><text x="77" y="77" font-size="15" font-weight="700" letter-spacing="3" fill="#70B7F8">DESENVOLVIMENTO DE SOFTWARE</text><text x="78" y="190" font-size="23" fill="#B5C9DC">Aplicações web · Inteligência artificial · Automação</text><text x="100" y="243" font-size="15" fill="#A7C3D9">SENAI / Em constante aprendizado</text><text x="77" y="281" font-size="12" letter-spacing="2" fill="#70B7F8">PT-BR / 01</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.5;0.92;1" dur="12s" repeatCount="indefinite"/><text x="77" y="77" font-size="15" font-weight="700" letter-spacing="3" fill="#70B7F8">SOFTWARE DEVELOPMENT</text><text x="78" y="190" font-size="23" fill="#B5C9DC">Web applications · Artificial intelligence · Automation</text><text x="100" y="243" font-size="15" fill="#A7C3D9">SENAI / Always learning</text><text x="77" y="281" font-size="12" letter-spacing="2" fill="#70B7F8">EN / 02</text></g>
 <g transform="translate(970 160)" font-family="monospace" font-size="62" font-weight="700" fill="url(#accent)" text-anchor="middle"><text y="20">&lt;/&gt;</text></g>
 </g>
 <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#29415B"/>
