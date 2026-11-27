@@ -71,10 +71,10 @@ I use AI to support development, aiming to understand solutions and test code be
 ## Contributions & activity
 
 <div align="center">
-  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-motion-v3.svg" alt="Decorative animated grid, not actual contribution data" width="100%"/></a>
+  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v1.svg" alt="Pixel dinosaur jumping over cacti on a decorative animated calendar" width="100%"/></a>
 </div>
 
-Decorative animation inspired by the GitHub calendar.
+Decorative animation inspired by Chrome's dinosaur game and GitHub's contribution calendar.
 
 [View official contribution calendar →](https://github.com/pedrowenz-a17y#contributions)
 
