@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v2.svg" alt="Pedro Henrique Wenz — Software Development, Artificial Intelligence and Automation" width="100%"/>
+<img src="./assets/profile-banner-v3.svg" alt="Pedro Henrique Wenz — Software Development, Artificial Intelligence and Automation" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wenz-866302271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrowenz-a17y?tab=repositories)
 
-[Português (BR)](./README.md) · **English (EN)**
+[![Português](./assets/lang-pt.svg)](./README.md) [![English (selected)](./assets/lang-en-active.svg)](./README.en.md)
 
 </div>
 
@@ -51,19 +51,20 @@ Requirements analysis, architecture and implementation review.
 
 I use AI to support development, aiming to understand solutions and test code before incorporating it into my projects.
 
-## Featured project
+## GitHub statistics
 
-### [Essenza — SaaS for beauty businesses](https://github.com/pedrowenz-a17y/SaaS-Essenza)
+<div align="center">
 
-A management application for small beauty businesses, focused on everyday operations.
+<a href="https://github.com/pedrowenz-a17y"><img height="168" alt="Public GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=pedrowenz-a17y&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1523&amp;title_color=8AC9FF&amp;text_color=D6E0EE&amp;icon_color=5EEAD4&amp;show_icons=true&amp;locale=en"/></a>
+<a href="https://github.com/pedrowenz-a17y?tab=repositories"><img height="168" alt="Top languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowenz-a17y&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1523&amp;title_color=8AC9FF&amp;text_color=D6E0EE&amp;icon_color=5EEAD4&amp;layout=compact&amp;langs_count=6&amp;locale=en"/></a>
 
-- Scheduling, clients, professionals and services.
-- Inventory control and financial management.
-- Automated reminders and access management.
+</div>
 
-**Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+## Contributions & activity
 
-[View repository →](https://github.com/pedrowenz-a17y/SaaS-Essenza)
+[![Public contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrowenz-a17y&bg_color=0D1523&color=D6E0EE&line=5EEAD4&point=8AC9FF&area=true&area_color=233B50&hide_border=true&custom_title=GitHub%20activity)](https://github.com/pedrowenz-a17y#contributions)
+
+[View official contribution calendar →](https://github.com/pedrowenz-a17y#contributions)
 
 ## What I am exploring
 
