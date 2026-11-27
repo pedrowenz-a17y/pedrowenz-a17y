@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Pedro Henrique Wenz — Software Development</title>
+<desc id="desc">Banner grafite com detalhes em azul e verde, linhas de circuito animadas e identificação profissional.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B111B"/><stop offset="1" stop-color="#14263A"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#3DDC97"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91B9E5" stroke-opacity=".07"/></pattern>
+<clipPath id="clip"><rect width="1200" height="320" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<g fill="none" stroke="#5C92B8" stroke-opacity=".28" stroke-width="1.5">
+<path d="M760 28H888L940 80H1090L1160 150H1200"/>
+<path d="M780 276H906L960 222H1110L1170 282H1200"/>
+<path d="M870 0V47L922 99V182L994 254V320"/>
+<path d="M1050 0V58L1120 128V202L1180 262"/>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="35 600">
+<path d="M760 28H888L940 80H1090L1160 150H1200"><animate attributeName="stroke-dashoffset" values="0;-635" dur="8s" repeatCount="indefinite"/></path>
+<path d="M780 276H906L960 222H1110L1170 282H1200"><animate attributeName="stroke-dashoffset" values="-635;0" dur="10s" repeatCount="indefinite"/></path>
+</g>
+<rect x="52" y="53" width="5" height="206" rx="2.5" fill="url(#accent)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="77" y="77" font-size="15" font-weight="700" letter-spacing="3" fill="#70B7F8">DESENVOLVIMENTO DE SOFTWARE</text>
+<text x="75" y="145" font-size="51" font-weight="700" fill="#F0F6FC">Pedro Henrique Wenz</text>
+<text x="78" y="190" font-size="23" fill="#B5C9DC">Aplicações web · Inteligência artificial · Automação</text>
+<circle cx="85" cy="238" r="5" fill="#3DDC97"><animate attributeName="opacity" values="1;.4;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="100" y="243" font-size="15" fill="#A7C3D9">SENAI / Em constante aprendizado</text>
+<g transform="translate(970 160)" font-family="monospace" font-size="62" font-weight="700" fill="url(#accent)" text-anchor="middle"><text y="20">&lt;/&gt;</text></g>
+</g>
+<rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#29415B"/>
+</g></svg>
