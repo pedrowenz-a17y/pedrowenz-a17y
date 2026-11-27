@@ -62,9 +62,9 @@ I use AI to support development, aiming to understand solutions and test code be
 
 ## Contributions & activity
 
-[![Recent repository activity](./assets/repo-activity-en-20261127.svg)](https://github.com/pedrowenz-a17y#contributions)
+[![Animated repository activity calendar](./assets/contribution-calendar-en-v1.svg)](https://github.com/pedrowenz-a17y#contributions)
 
-Repository activity snapshot as of 2026-11-27. See the official calendar below for all contributions and up-to-date data.
+Animated view of commits found in public repositories as of 2026-11-27. For the actual, up-to-date personal contribution total, see the official calendar.
 
 [View official contribution calendar →](https://github.com/pedrowenz-a17y#contributions)
 
