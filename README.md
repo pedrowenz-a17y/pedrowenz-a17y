@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v2.svg" alt="Pedro Henrique Wenz — Desenvolvimento de Software, Inteligência Artificial e Automação" width="100%"/>
+<img src="./assets/profile-banner-v3.svg" alt="Pedro Henrique Wenz — Desenvolvimento de Software, Inteligência Artificial e Automação" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wenz-866302271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portf%C3%B3lio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrowenz-a17y?tab=repositories)
 
-**Português (BR)** · [English (EN)](./README.en.md)
+[![Português (selecionado)](./assets/lang-pt-active.svg)](./README.md) [![English](./assets/lang-en.svg)](./README.en.md)
 
 </div>
 
@@ -51,19 +51,20 @@ Análise de requisitos, arquitetura e revisão de implementações.
 
 Utilizo a IA como apoio ao desenvolvimento, buscando compreender as soluções e testar o código antes de incorporá-lo aos projetos.
 
-## Projeto em destaque
+## Estatísticas do GitHub
 
-### [Essenza — SaaS para empresas de estética](https://github.com/pedrowenz-a17y/SaaS-Essenza)
+<div align="center">
 
-Aplicação de gestão para pequenas empresas de beleza, com foco na rotina de atendimento.
+<a href="https://github.com/pedrowenz-a17y"><img height="168" alt="Estatísticas públicas do GitHub" src="https://github-readme-stats.vercel.app/api?username=pedrowenz-a17y&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1523&amp;title_color=8AC9FF&amp;text_color=D6E0EE&amp;icon_color=5EEAD4&amp;show_icons=true&amp;locale=pt-br"/></a>
+<a href="https://github.com/pedrowenz-a17y?tab=repositories"><img height="168" alt="Linguagens mais utilizadas nos repositórios públicos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowenz-a17y&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1523&amp;title_color=8AC9FF&amp;text_color=D6E0EE&amp;icon_color=5EEAD4&amp;layout=compact&amp;langs_count=6&amp;locale=pt-br"/></a>
 
-- Agenda, clientes, profissionais e serviços.
-- Controle de estoque e gestão financeira.
-- Lembretes automatizados e gerenciamento de permissões.
+</div>
 
-**Stack:** Next.js · TypeScript · Supabase · Tailwind CSS
+## Contribuições e atividade
 
-[Ver repositório →](https://github.com/pedrowenz-a17y/SaaS-Essenza)
+[![Gráfico de contribuições públicas](https://github-readme-activity-graph.vercel.app/graph?username=pedrowenz-a17y&bg_color=0D1523&color=D6E0EE&line=5EEAD4&point=8AC9FF&area=true&area_color=233B50&hide_border=true&custom_title=Atividade%20no%20GitHub)](https://github.com/pedrowenz-a17y#contributions)
+
+[Ver calendário oficial de contribuições →](https://github.com/pedrowenz-a17y#contributions)
 
 ## O que estou explorando
 
