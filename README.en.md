@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="./assets/profile-banner-v3.svg" alt="Pedro Henrique Wenz — Software Development, Artificial Intelligence and Automation" width="100%"/>
+<img src="./assets/profile-banner-v4.svg" alt="Pedro Henrique Wenz — Software Development, Artificial Intelligence and Automation" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wenz-866302271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrowenz-a17y?tab=repositories)
+
+![Profile views](https://komarev.com/ghpvc/?username=pedrowenz-a17y&label=Profile%20views&color=21856d&style=for-the-badge) [![Followers](https://img.shields.io/github/followers/pedrowenz-a17y?style=for-the-badge&label=Followers&color=3979B8&logo=github)](https://github.com/pedrowenz-a17y?tab=followers) [![Stars](https://img.shields.io/github/stars/pedrowenz-a17y?style=for-the-badge&label=Stars&color=B58A43&logo=github)](https://github.com/pedrowenz-a17y?tab=repositories)
 
 [![Português](./assets/lang-pt.svg)](./README.md) [![English (selected)](./assets/lang-en-active.svg)](./README.en.md)
 
@@ -62,9 +64,11 @@ I use AI to support development, aiming to understand solutions and test code be
 
 ## Contributions & activity
 
-[![Animated repository activity calendar](./assets/contribution-calendar-en-v1.svg)](https://github.com/pedrowenz-a17y#contributions)
+<div align="center">
+  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/code-in-motion-v1.svg" alt="Decorative animated grid, not actual contribution data" width="100%"/></a>
+</div>
 
-Animated view of commits found in public repositories as of 2026-11-27. For the actual, up-to-date personal contribution total, see the official calendar.
+Decorative animation inspired by the GitHub calendar.
 
 [View official contribution calendar →](https://github.com/pedrowenz-a17y#contributions)
 
