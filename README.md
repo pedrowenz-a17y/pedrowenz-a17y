@@ -62,9 +62,9 @@ Utilizo a IA como apoio ao desenvolvimento, buscando compreender as soluções e
 
 ## Contribuições e atividade
 
-[![Atividade recente nos repositórios](./assets/repo-activity-pt-20261127.svg)](https://github.com/pedrowenz-a17y#contributions)
+[![Calendário animado de atividade nos repositórios](./assets/contribution-calendar-pt-v1.svg)](https://github.com/pedrowenz-a17y#contributions)
 
-Registro de atividade dos repositórios em 27/11/2026. Para consultar todas as contribuições e os dados atualizados, use o calendário oficial abaixo.
+Visualização animada dos commits encontrados nos repositórios públicos em 27/11/2026. Para consultar o total real e atualizado de contribuições pessoais, acesse o calendário oficial.
 
 [Ver calendário oficial de contribuições →](https://github.com/pedrowenz-a17y#contributions)
 
