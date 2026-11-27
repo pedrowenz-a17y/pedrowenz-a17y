@@ -62,7 +62,9 @@ I use AI to support development, aiming to understand solutions and test code be
 
 ## Contributions & activity
 
-[![Public contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrowenz-a17y&bg_color=0D1523&color=D6E0EE&line=5EEAD4&point=8AC9FF&area=true&area_color=233B50&hide_border=true&custom_title=GitHub%20activity)](https://github.com/pedrowenz-a17y#contributions)
+[![Recent repository activity](./assets/repo-activity-en-20261127.svg)](https://github.com/pedrowenz-a17y#contributions)
+
+Repository activity snapshot as of 2026-11-27. See the official calendar below for all contributions and up-to-date data.
 
 [View official contribution calendar →](https://github.com/pedrowenz-a17y#contributions)
 
