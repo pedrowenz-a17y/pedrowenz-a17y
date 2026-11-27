@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wenz-866302271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrowenz-a17y?tab=repositories)
 
-![Profile views](https://komarev.com/ghpvc/?username=pedrowenz-a17y&label=Profile%20views&color=B8324C&style=for-the-badge) [![Followers](https://img.shields.io/github/followers/pedrowenz-a17y?style=for-the-badge&label=Followers&color=4B3947&logo=github)](https://github.com/pedrowenz-a17y?tab=followers) [![Stars](https://img.shields.io/github/stars/pedrowenz-a17y?style=for-the-badge&label=Stars&color=BA586D&logo=github)](https://github.com/pedrowenz-a17y?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=pedrowenz-a17y&label=Profile%20views&color=B8324C&style=for-the-badge) [![Followers](https://img.shields.io/github/followers/pedrowenz-a17y?style=for-the-badge&label=Followers&color=4B3947&logo=github&cacheSeconds=300)](https://github.com/pedrowenz-a17y?tab=followers) [![Stars](https://img.shields.io/github/stars/pedrowenz-a17y?style=for-the-badge&label=Stars&color=BA586D&logo=github)](https://github.com/pedrowenz-a17y?tab=repositories)
 
 [![Português](./assets/readme/lang-pt-v2.svg)](./README.md) [![English (selected)](./assets/readme/lang-en-active-v2.svg)](./README.en.md)
 
