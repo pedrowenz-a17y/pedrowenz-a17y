@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Henrique Wenz | Developer portfolio</title>
+  <desc id="desc">Animated bilingual developer banner in Portuguese and English, with a dark editorial design and an abstract code window.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A101B"/><stop offset=".6" stop-color="#11182B"/><stop offset="1" stop-color="#0C1C24"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A5B4FC"/><stop offset=".55" stop-color="#8AC9FF"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#6366F1" stop-opacity=".24"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+    <radialGradient id="halo2"><stop stop-color="#2DD4BF" stop-opacity=".14"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#A5B4FC" opacity=".11"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="24"/></clipPath>
+    <clipPath id="reveal0" clipPathUnits="userSpaceOnUse"><rect x="54" y="51" width="225" height="22"><animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.095833;0.100278;0.104722;0.109167;0.113611;0.118056;0.1225;0.126944;0.131389;0.135833;0.140278;0.144722;0.149167;0.153611;0.158056;0.1625;0.166944;0.171389;0.175833;0.180278;0.184722;0.189167;0.193611;0.198056;0.2025;0.206944;0.211389;0.215833;0.220278;0.224722;0.229167;0.94;1" values="0;0;7.5;15;22.5;30;37.5;45;52.5;60;67.5;75;82.5;90;97.5;105;112.5;120;127.5;135;142.5;150;157.5;165;172.5;180;187.5;195;202.5;210;217.5;225;225;0"/></rect></clipPath>
+<clipPath id="reveal1" clipPathUnits="userSpaceOnUse"><rect x="54" y="75" width="202.5" height="22"><animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.245833;0.250154;0.254475;0.258796;0.263117;0.267438;0.271759;0.27608;0.280401;0.284722;0.289043;0.293364;0.297685;0.302006;0.306327;0.310648;0.314969;0.31929;0.323611;0.327932;0.332253;0.336574;0.340895;0.345216;0.349537;0.353858;0.358179;0.3625;0.94;1" values="0;0;7.5;15;22.5;30;37.5;45;52.5;60;67.5;75;82.5;90;97.5;105;112.5;120;127.5;135;142.5;150;157.5;165;172.5;180;187.5;195;202.5;202.5;0"/></rect></clipPath>
+<clipPath id="reveal2" clipPathUnits="userSpaceOnUse"><rect x="54" y="99" width="120" height="22"><animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.379167;0.384375;0.389583;0.394792;0.4;0.405208;0.410417;0.415625;0.420833;0.426042;0.43125;0.436458;0.441667;0.446875;0.452083;0.457292;0.4625;0.94;1" values="0;0;7.5;15;22.5;30;37.5;45;52.5;60;67.5;75;82.5;90;97.5;105;112.5;120;120;0"/></rect></clipPath>
+<clipPath id="reveal3" clipPathUnits="userSpaceOnUse"><rect x="54" y="123" width="172.5" height="22"><animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.479167;0.483877;0.488587;0.493297;0.498007;0.502717;0.507428;0.512138;0.516848;0.521558;0.526268;0.530978;0.535688;0.540399;0.545109;0.549819;0.554529;0.559239;0.563949;0.568659;0.57337;0.57808;0.58279;0.5875;0.94;1" values="0;0;7.5;15;22.5;30;37.5;45;52.5;60;67.5;75;82.5;90;97.5;105;112.5;120;127.5;135;142.5;150;157.5;165;172.5;172.5;0"/></rect></clipPath>
+<clipPath id="reveal4" clipPathUnits="userSpaceOnUse"><rect x="54" y="147" width="15" height="22"><animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.604167;0.6125;0.620833;0.94;1" values="0;0;7.5;15;15;0"/></rect></clipPath>
+<clipPath id="reveal5" clipPathUnits="userSpaceOnUse"><rect x="54" y="171" width="60" height="22"><animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6375;0.641667;0.645833;0.65;0.654167;0.658333;0.6625;0.666667;0.670833;0.94;1" values="0;0;7.5;15;22.5;30;37.5;45;52.5;60;60;0"/></rect></clipPath><style>
+.editor {transform-box:fill-box;transform-origin:center;animation:editorOpen 12s ease-in-out infinite;}
+@keyframes editorOpen {0%,3%{opacity:0;transform:translateY(18px) scale(.85)}9%,92%{opacity:1;transform:none}98%,100%{opacity:0;transform:translateY(12px) scale(.92)}}
+.pt {animation:pt 12s steps(1,end) infinite;}
+.en {opacity:0;animation:en 12s steps(1,end) infinite;}
+@keyframes pt {0%{opacity:1}50%{opacity:0}100%{opacity:1}}
+@keyframes en {0%{opacity:0}50%{opacity:1}100%{opacity:0}}
+.trace {animation:flow 9s linear infinite;}
+@keyframes flow {to{stroke-dashoffset:-590}}
+.progress {transform-box:fill-box;transform-origin:left center;animation:progress 12s linear infinite;}
+@keyframes progress {0%{transform:scaleX(0)}49.999%{transform:scaleX(1)}50%{transform:scaleX(0)}99.999%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.ready {animation:ready 12s steps(1,end) infinite;}
+@keyframes ready {0%{opacity:0}70%{opacity:1}94%,100%{opacity:0}}
+.static-code{display:none}
+@media(prefers-reduced-motion:reduce){.editor,.pt,.en,.trace,.progress,.ready{animation:none!important}.animated-code{display:none}.static-code{display:inline}}
+</style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <ellipse cx="990" cy="50" rx="450" ry="310" fill="url(#halo)"/>
+    <ellipse cx="1050" cy="340" rx="330" ry="260" fill="url(#halo2)"/>
+    <rect x="735" width="465" height="360" fill="url(#dots)"/>
+    <g fill="none" stroke="#A5B4FC" stroke-opacity=".11">
+      <circle cx="1050" cy="175" r="172"/><circle cx="1050" cy="175" r="212"/>
+      <path d="M708 280H760L795 315H1160L1200 275"/>
+      <path d="M772 42H1130L1200 112"/>
+    </g>
+    <path class="trace" d="M708 280H760L795 315H1160L1200 275" fill="none" stroke="url(#accent)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="35 555" opacity=".65"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="64" y="47" width="29" height="3" rx="1.5" fill="url(#accent)"/>
+      <text x="104" y="52" font-size="12" fill="#A5B4FC" letter-spacing="2.4" font-weight="700">DEVELOPER PORTFOLIO</text>
+      <text x="62" y="121" font-size="52" letter-spacing="-1.6" font-weight="700" fill="#F1F5F9">Pedro Henrique Wenz</text>
+      <g class="pt">
+        <text x="64" y="167" font-size="24" font-weight="700" fill="url(#accent)">Desenvolvimento de software</text>
+        <text x="64" y="205" font-size="18" fill="#AEBBD0">Aplicações web, inteligência artificial e automação.</text>
+        <text x="84" y="285" font-size="14" fill="#B8C8D8">Tecnologia, criatividade e evolução contínua</text>
+        <text x="683" y="324" text-anchor="end" font-size="11" letter-spacing="1.2" fill="#9DAAC0">PT-BR / 01</text>
+      </g>
+      <g class="en">
+        <text x="64" y="167" font-size="24" font-weight="700" fill="url(#accent)">Software development</text>
+        <text x="64" y="205" font-size="18" fill="#AEBBD0">Web applications, artificial intelligence and automation.</text>
+        <text x="84" y="285" font-size="14" fill="#B8C8D8">Technology, creativity and continuous learning</text>
+        <text x="683" y="324" text-anchor="end" font-size="11" letter-spacing="1.2" fill="#9DAAC0">EN / 02</text>
+      </g>
+      <g font-size="12" font-weight="600" fill="#D6E0EE">
+        <rect x="64" y="226" width="70" height="29" rx="7" fill="#182334" stroke="#344259"/><text x="99" y="245" text-anchor="middle">React</text>
+        <rect x="144" y="226" width="92" height="29" rx="7" fill="#182334" stroke="#344259"/><text x="190" y="245" text-anchor="middle">Supabase</text>
+        <rect x="246" y="226" width="82" height="29" rx="7" fill="#182334" stroke="#344259"/><text x="287" y="245" text-anchor="middle">Next.js</text>
+        <rect x="338" y="226" width="91" height="29" rx="7" fill="#182334" stroke="#344259"/><text x="383.5" y="245" text-anchor="middle">AI &amp; Code</text>
+      </g>
+      <circle cx="69" cy="280" r="4" fill="#5EEAD4"/>
+      <rect x="64" y="322" width="530" height="2" rx="1" fill="#29364B"/>
+      <rect class="progress" x="64" y="322" width="530" height="2" rx="1" fill="url(#accent)"/>
+    </g>
+    <g transform="translate(755 53)"><g class="editor">
+      <rect x="8" y="12" width="390" height="252" rx="17" fill="#050914" opacity=".55"/>
+      <rect width="390" height="252" rx="17" fill="#0D1523" stroke="#455773"/>
+      <path d="M0 36H390M0 58H390" stroke="#2B364A"/>
+      <circle cx="20" cy="18" r="4.5" fill="#F28B82"/><circle cx="35" cy="18" r="4.5" fill="#F2CD80"/><circle cx="50" cy="18" r="4.5" fill="#7DD3B0"/>
+      <text x="195" y="22" text-anchor="middle" font-family="monospace" font-size="12" fill="#9DAAC0">workspace</text>
+      <rect x="10" y="37" width="111" height="21" fill="#19243A"/><path d="M10 37H121" stroke="#8AC9FF"/><text x="19" y="51" font-family="monospace" font-size="10" fill="#8AC9FF">TS</text><text x="41" y="51" font-family="monospace" font-size="10" fill="#D6E0EE">index.ts</text>
+      <g transform="translate(0 15)" font-family="monospace" font-size="12.5" xml:space="preserve"><text x="20" y="65" fill="#66758C">01</text><text x="20" y="89" fill="#66758C">02</text><text x="20" y="113" fill="#66758C">03</text><text x="20" y="137" fill="#66758C">04</text><text x="20" y="161" fill="#66758C">05</text><text x="20" y="185" fill="#66758C">06</text><g class="animated-code"><text x="54" y="65" textLength="225" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal0)"><tspan fill="#C4B5FD">const</tspan><tspan fill="#E2E8F0"> stack = [</tspan><tspan fill="#A7F3D0">"React", "AI"</tspan><tspan fill="#E2E8F0">];</tspan></text><text x="54" y="89" textLength="202.5" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal1)"><tspan fill="#C4B5FD">const</tspan><tspan fill="#93C5FD"> build = </tspan><tspan fill="#C4B5FD">async</tspan><tspan fill="#E2E8F0"> () =&gt; {</tspan></text><text x="54" y="113" textLength="120" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal2)"><tspan fill="#C4B5FD">  await</tspan><tspan fill="#A7F3D0"> learn();</tspan></text><text x="54" y="137" textLength="172.5" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal3)"><tspan fill="#C4B5FD">  return</tspan><tspan fill="#93C5FD"> create(stack);</tspan></text><text x="54" y="161" textLength="15" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal4)"><tspan fill="#E2E8F0">};</tspan></text><text x="54" y="185" textLength="60" lengthAdjust="spacingAndGlyphs" clip-path="url(#reveal5)"><tspan fill="#93C5FD">build</tspan><tspan fill="#E2E8F0">();</tspan></text><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.088333;0.239167;1" values="0;1;0;0"/><rect x="54" y="53" width="2" height="15" rx="1" fill="#5EEAD4"><animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.095833;0.100278;0.104722;0.109167;0.113611;0.118056;0.1225;0.126944;0.131389;0.135833;0.140278;0.144722;0.149167;0.153611;0.158056;0.1625;0.166944;0.171389;0.175833;0.180278;0.184722;0.189167;0.193611;0.198056;0.2025;0.206944;0.211389;0.215833;0.220278;0.224722;0.229167;0.94;1" values="54;54;61.5;69;76.5;84;91.5;99;106.5;114;121.5;129;136.5;144;151.5;159;166.5;174;181.5;189;196.5;204;211.5;219;226.5;234;241.5;249;256.5;264;271.5;279;279;54"/><animate attributeName="opacity" dur=".85s" repeatCount="indefinite" calcMode="discrete" values="1;.3;1"/></rect></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.239167;0.3725;1" values="0;1;0;0"/><rect x="54" y="77" width="2" height="15" rx="1" fill="#5EEAD4"><animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.245833;0.250154;0.254475;0.258796;0.263117;0.267438;0.271759;0.27608;0.280401;0.284722;0.289043;0.293364;0.297685;0.302006;0.306327;0.310648;0.314969;0.31929;0.323611;0.327932;0.332253;0.336574;0.340895;0.345216;0.349537;0.353858;0.358179;0.3625;0.94;1" values="54;54;61.5;69;76.5;84;91.5;99;106.5;114;121.5;129;136.5;144;151.5;159;166.5;174;181.5;189;196.5;204;211.5;219;226.5;234;241.5;249;256.5;256.5;54"/><animate attributeName="opacity" dur=".85s" repeatCount="indefinite" calcMode="discrete" values="1;.3;1"/></rect></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3725;0.4725;1" values="0;1;0;0"/><rect x="54" y="101" width="2" height="15" rx="1" fill="#5EEAD4"><animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.379167;0.384375;0.389583;0.394792;0.4;0.405208;0.410417;0.415625;0.420833;0.426042;0.43125;0.436458;0.441667;0.446875;0.452083;0.457292;0.4625;0.94;1" values="54;54;61.5;69;76.5;84;91.5;99;106.5;114;121.5;129;136.5;144;151.5;159;166.5;174;174;54"/><animate attributeName="opacity" dur=".85s" repeatCount="indefinite" calcMode="discrete" values="1;.3;1"/></rect></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4725;0.5975;1" values="0;1;0;0"/><rect x="54" y="125" width="2" height="15" rx="1" fill="#5EEAD4"><animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.479167;0.483877;0.488587;0.493297;0.498007;0.502717;0.507428;0.512138;0.516848;0.521558;0.526268;0.530978;0.535688;0.540399;0.545109;0.549819;0.554529;0.559239;0.563949;0.568659;0.57337;0.57808;0.58279;0.5875;0.94;1" values="54;54;61.5;69;76.5;84;91.5;99;106.5;114;121.5;129;136.5;144;151.5;159;166.5;174;181.5;189;196.5;204;211.5;219;226.5;226.5;54"/><animate attributeName="opacity" dur=".85s" repeatCount="indefinite" calcMode="discrete" values="1;.3;1"/></rect></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5975;0.630833;1" values="0;1;0;0"/><rect x="54" y="149" width="2" height="15" rx="1" fill="#5EEAD4"><animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.604167;0.6125;0.620833;0.94;1" values="54;54;61.5;69;69;54"/><animate attributeName="opacity" dur=".85s" repeatCount="indefinite" calcMode="discrete" values="1;.3;1"/></rect></g><g opacity="0"><animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.630833;0.929167;1" values="0;1;0;0"/><rect x="54" y="173" width="2" height="15" rx="1" fill="#5EEAD4"><animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6375;0.641667;0.645833;0.65;0.654167;0.658333;0.6625;0.666667;0.670833;0.94;1" values="54;54;61.5;69;76.5;84;91.5;99;106.5;114;114;54"/><animate attributeName="opacity" dur=".85s" repeatCount="indefinite" calcMode="discrete" values="1;.3;1"/></rect></g></g><g class="static-code"><text x="54" y="65" textLength="225" lengthAdjust="spacingAndGlyphs"><tspan fill="#C4B5FD">const</tspan><tspan fill="#E2E8F0"> stack = [</tspan><tspan fill="#A7F3D0">"React", "AI"</tspan><tspan fill="#E2E8F0">];</tspan></text><text x="54" y="89" textLength="202.5" lengthAdjust="spacingAndGlyphs"><tspan fill="#C4B5FD">const</tspan><tspan fill="#93C5FD"> build = </tspan><tspan fill="#C4B5FD">async</tspan><tspan fill="#E2E8F0"> () =&gt; {</tspan></text><text x="54" y="113" textLength="120" lengthAdjust="spacingAndGlyphs"><tspan fill="#C4B5FD">  await</tspan><tspan fill="#A7F3D0"> learn();</tspan></text><text x="54" y="137" textLength="172.5" lengthAdjust="spacingAndGlyphs"><tspan fill="#C4B5FD">  return</tspan><tspan fill="#93C5FD"> create(stack);</tspan></text><text x="54" y="161" textLength="15" lengthAdjust="spacingAndGlyphs"><tspan fill="#E2E8F0">};</tspan></text><text x="54" y="185" textLength="60" lengthAdjust="spacingAndGlyphs"><tspan fill="#93C5FD">build</tspan><tspan fill="#E2E8F0">();</tspan></text></g></g>
+      <path d="M14 214H376" stroke="#263247"/>
+      <g class="ready"><circle cx="22" cy="230" r="4" fill="#5EEAD4"/><text x="33" y="234" font-family="monospace" font-size="11" fill="#75E7B9">Ready to build.</text></g>
+      <text x="372" y="234" text-anchor="end" font-family="monospace" font-size="10" fill="#8190A8">TypeScript · UTF-8</text>
+    </g></g>
+    <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#3B4A61"/>
+  </g>
+</svg>
