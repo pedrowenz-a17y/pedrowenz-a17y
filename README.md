@@ -62,7 +62,9 @@ Utilizo a IA como apoio ao desenvolvimento, buscando compreender as soluções e
 
 ## Contribuições e atividade
 
-[![Gráfico de contribuições públicas](https://github-readme-activity-graph.vercel.app/graph?username=pedrowenz-a17y&bg_color=0D1523&color=D6E0EE&line=5EEAD4&point=8AC9FF&area=true&area_color=233B50&hide_border=true&custom_title=Atividade%20no%20GitHub)](https://github.com/pedrowenz-a17y#contributions)
+[![Atividade recente nos repositórios](./assets/repo-activity-pt-20261127.svg)](https://github.com/pedrowenz-a17y#contributions)
+
+Registro de atividade dos repositórios em 27/11/2026. Para consultar todas as contribuições e os dados atualizados, use o calendário oficial abaixo.
 
 [Ver calendário oficial de contribuições →](https://github.com/pedrowenz-a17y#contributions)
 
