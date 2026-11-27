@@ -17,20 +17,39 @@ I enjoy exploring the entire process of building an application, from the initia
 
 ## Technologies and tools
 
-| Area | Stack |
-| :--- | :--- |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) |
-| Backend & data | ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| Development | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| Automation & creative coding | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Remotion](https://img.shields.io/badge/Remotion-0B84F3?style=flat-square) |
+### Frontend
+
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+### Backend & databases
+
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=7AA2D6) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=83CD29) ![Prisma](https://img.shields.io/badge/Prisma-161B22?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+
+### Version control & deployment
+
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+
+### Automation & creative coding
+
+![Arduino](https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=25B7C1) ![Remotion](https://img.shields.io/badge/Remotion-161B22?style=for-the-badge)
 
 ## Artificial intelligence in my workflow
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-212121?style=flat-square)
-![Codex](https://img.shields.io/badge/Codex-181717?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-21856D?style=for-the-badge)
 
-I use AI to plan applications, study concepts, investigate bugs and review implementations. I aim to understand the solutions and test the code before incorporating it into my projects.
+Planning, learning concepts and exploring solutions.
+
+![Codex](https://img.shields.io/badge/Codex-343B46?style=for-the-badge)
+
+Feature implementation, debugging and code maintenance.
+
+![Claude](https://img.shields.io/badge/Claude-AC6247?style=for-the-badge&logo=claude&logoColor=white)
+
+Requirements analysis, architecture and implementation review.
+
+**My workflow:** Idea → Planning → Implementation → Testing → Review
+
+I use AI to support development, aiming to understand solutions and test code before incorporating it into my projects.
 
 ## Featured project
 
