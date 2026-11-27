@@ -58,10 +58,8 @@ Uso **ChatGPT** para estudar e organizar ideias, **Codex** para implementar func
 ## 05 / Contribuições e atividade
 
 <div align="center">
-  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v2.svg" alt="Dinossauro pixelado pulando cactos em um calendário animado decorativo" width="100%"/></a>
+  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v3.svg" alt="Dinossauro pixelado pulando cactos em um calendário animado decorativo" width="100%"/></a>
 </div>
-
-Animação decorativa inspirada no jogo do dinossauro do Chrome e no calendário do GitHub.
 
 [Ver calendário oficial de contribuições →](https://github.com/pedrowenz-a17y#contributions)
 

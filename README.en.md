@@ -58,10 +58,8 @@ I use **ChatGPT** to learn and organize ideas, **Codex** to implement features a
 ## 05 / Contributions & activity
 
 <div align="center">
-  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v2.svg" alt="Pixel dinosaur jumping over cacti on a decorative animated calendar" width="100%"/></a>
+  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v3.svg" alt="Pixel dinosaur jumping over cacti on a decorative animated calendar" width="100%"/></a>
 </div>
-
-Decorative animation inspired by Chrome's dinosaur game and GitHub's contribution calendar.
 
 [View official contribution calendar →](https://github.com/pedrowenz-a17y#contributions)
 
