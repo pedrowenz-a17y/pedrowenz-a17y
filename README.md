@@ -71,10 +71,10 @@ Utilizo a IA como apoio ao desenvolvimento, buscando compreender as soluções e
 ## Contribuições e atividade
 
 <div align="center">
-  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-motion-v3.svg" alt="Animação artística em quadradinhos, sem representar dados de contribuições" width="100%"/></a>
+  <a href="https://github.com/pedrowenz-a17y#contributions"><img src="./assets/crimson-dino-run-v1.svg" alt="Dinossauro pixelado pulando cactos em um calendário animado decorativo" width="100%"/></a>
 </div>
 
-Animação decorativa inspirada no calendário do GitHub.
+Animação decorativa inspirada no jogo do dinossauro do Chrome e no calendário do GitHub.
 
 [Ver calendário oficial de contribuições →](https://github.com/pedrowenz-a17y#contributions)
 
