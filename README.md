@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Pedro Henrique Wenz — Desenvolvimento de Software, Inteligência Artificial e Automação" width="100%"/>
+<img src="./assets/profile-banner-v2.svg" alt="Pedro Henrique Wenz — Desenvolvimento de Software, Inteligência Artificial e Automação" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-wenz-866302271/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portf%C3%B3lio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrowenz-a17y?tab=repositories)
